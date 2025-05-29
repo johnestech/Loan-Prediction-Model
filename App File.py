@@ -1,3 +1,3 @@
-import streamlit as st
+import streamlit as stm
 import pandas as pd
 from pickle import load
