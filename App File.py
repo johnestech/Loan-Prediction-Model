@@ -3,5 +3,5 @@ import pandas as pd
 from pickle import load
 
 data = pd.Dataframe({
-  "Loan Type": ["Loan 1", "Loan 2"]
+  "Loan Type": ["Loan 1", "Loan 2", "Loan 3"]
 })
